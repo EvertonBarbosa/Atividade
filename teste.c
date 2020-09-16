@@ -19,5 +19,5 @@ main(){
     Resultado = DataAtual - Ano;
     
 	
-	printf("Sua idade atual e %d anos " ,Resultado);
+	printf("Sua idade %s atual e %d anos " ,Nome,Resultado);
 }
